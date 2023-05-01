@@ -7,4 +7,4 @@ The steps that I have done for this project:
     * Standardizing features 
     * Splitting into training data and test data 
     * Finding best Hyperparameter for Logistic Regression, Support Vector Machine, Decission Trees, and K Nearest Neighbors
-    * Finding the method which performs best using test data
+    * Finding the method which performs best using test data.
